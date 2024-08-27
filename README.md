@@ -14,7 +14,7 @@ This repository is designed for completing an interview task at Veridion. The go
     - `requirements.txt`: Required packages for the application
     - `README.md`: This documentation file
 
-  - **Missing Folder**: An important folder is missing from this repository. You can download it from [this Google Drive link](https://drive.google.com/file/d/1yBUU-7vuqL9YFbdGvsQZe7P67PfgOuTd/view?usp=drive_link). It's too large for Git. Refer [here](https://drive.google.com/file/d/1yBUU-7vuqL9YFbdGvsQZe7P67PfgOuTd/view?usp=drive_link) for more details.
+  - **Missing Folder**: An important folder is missing from this repository. You can download it from [this Google Drive link](https://drive.google.com/file/d/1yBUU-7vuqL9YFbdGvsQZe7P67PfgOuTd/view?usp=drive_link). It's too large for Git. Refer [here](https://github.com/Jock00/veridion_data_merging/blob/main/README.md#data-folder-structure) for more details.
 
   - **Setup Instructions**:
     1. Download the missing folder from the provided link.
